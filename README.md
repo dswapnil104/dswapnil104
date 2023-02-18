@@ -80,7 +80,7 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#1](https://github.com/MathisP75/hyppuccin/issues/1) in [MathisP75/hyppuccin](https://github.com/MathisP75/hyppuccin)
+1. ❗️ Opened issue [#1](https://github.com/GrenicMars/dotfiles/issues/1) in [GrenicMars/dotfiles](https://github.com/GrenicMars/dotfiles)
 <!--END_SECTION:activity-->
 
 </details>
