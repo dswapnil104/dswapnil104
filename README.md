@@ -92,4 +92,4 @@
 Coz' since their formation,<br/> they haven't had a <b>gig</b> yet !! <br/> 🤭
 </details>
 
-![snake gif](https://github.com/iamverysimp1e/iamverysimp1e/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/dswapnil104/dswapnil104/blob/master/assets/github-contribution-grid-snake.svg)
